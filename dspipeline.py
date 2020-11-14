@@ -9,7 +9,9 @@ Description:
     simple data science pipeline functions and a demo which uses these tools to
     model a freely available dataset
 Usage:
-    <usage>
+    import dspipeline
+    dspipeline.adult_data_demo()
+ 
 """
 
 import argparse
